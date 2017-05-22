@@ -1,6 +1,6 @@
 # Ansgar + Lauren Wedding Website
 
-When we were looking to build a web site we wanted to be able to build something that was more custom and our style than something a site builder like the Knot provided. When looking for a template to build off of we didn't find many open source wedding site projects.Based on that be found the following project: https://startbootstrap.com/template-overviews/agency/ to work from. The github project can be found at https://github.com/BlackrockDigital/startbootstrap-agency. We liked this project since it had already laid out several of the elements that we were looking for:
+When we were looking to build a web site we wanted to be able to build something that was more custom and our style than something a site builder like the Knot provided. Based on that be found the following project: https://startbootstrap.com/template-overviews/agency/ to work from. The github project can be found at https://github.com/BlackrockDigital/startbootstrap-agency. We liked this project since it had already laid out several of the elements that we were looking for:
 * Single page website
 * Timeline
 * Good fonts / format
