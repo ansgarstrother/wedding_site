@@ -36,6 +36,14 @@
     background-repeat: no-repeat;
     background-position: 50% 50%;
 }
+.container5 {
+    width: 100%;
+    height: 100vh;
+    background-image: url("../img/landing/10.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
 
 .carousel-content {
   position: absolute;
